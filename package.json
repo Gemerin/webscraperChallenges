@@ -1,0 +1,23 @@
+{
+  "name": "assignment-a2-the-gathering-web-scraper",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "lint": "npx eslint ./src || exit 0",
+    "lint:fix": "npx eslint ./src --fix || exit 0"
+  },
+  "dependencies": {
+    "jsdom": "^23.0.1",
+    "validator": "^13.11.0"
+  },
+  "devDependencies": {
+    "@lnu/eslint-config": "^1.1.2"
+  },
+  "keywords": [],
+  "author": " Saskia Heinemann <sh224wg@student.lnu.se>",
+  "license": "MIT",
+  "private": "true",
+  "description": "Web scraper"
+}
