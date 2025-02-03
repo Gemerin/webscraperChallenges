@@ -1,5 +1,5 @@
 {
-  "name": "assignment-a2-the-gathering-web-scraper",
+  "name": "Gathering-web-scraper",
   "version": "1.0.0",
   "type": "module",
   "main": "app.js",
@@ -16,7 +16,7 @@
     "@lnu/eslint-config": "^1.1.2"
   },
   "keywords": [],
-  "author": " Saskia Heinemann <sh224wg@student.lnu.se>",
+  "author": " Eva Heinemann <sh224wg@student.lnu.se>",
   "license": "MIT",
   "private": "true",
   "description": "Web scraper"
